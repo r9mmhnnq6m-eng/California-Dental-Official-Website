@@ -1,0 +1,8 @@
+{
+  "name": "Copy of California Dental - San Fernando",
+  "description": "Professional, modern dental care website for California Dental featuring Dr. Arman Petrosyan. Includes AI-powered dental assistants and service visualizations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
