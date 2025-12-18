@@ -1,20 +1,68 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🦷 California Dental – Official Website
 
-# Run and deploy your AI Studio app
+A professional, responsive dental clinic website for **California Dental**, located in **San Fernando, CA**.  
+This project focuses on **patient trust**, **local SEO**, **accessibility**, and **conversion-focused medical content**.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1r3B8nN9y55UnHxQ329vLriEmR7UkyUHJ
+## 📍 Business Information
 
-## Run Locally
+- **Business Name:** California Dental  
+- **Industry:** Medical (Dentist)  
+- **Location:** 1009 Glenoaks Blvd, San Fernando, CA 91340, United States  
+- **Landmark:** Near Global Trend Productions, Inc.  
 
-**Prerequisites:**  Node.js
+---
 
+## 🌟 Website Features
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- ✅ SEO-optimized content targeting *Good Dentist in California*
+- ♿ Fully accessibility-aware structure (wheelchair-friendly clinic)
+- 🦷 Comprehensive dental services pages
+- 📱 Mobile-responsive layout
+- 🗺️ Local SEO & Google Maps integration ready
+- 💬 Testimonials & patient trust sections
+- 📞 Conversion-focused contact & booking flows
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5 / CSS3  
+- JavaScript  
+- Responsive Design Principles  
+- SEO Best Practices  
+- Git & GitHub  
+
+*(Framework-agnostic – can be adapted to React, Next.js, or WordPress)*
+
+---
+
+## 🦷 Dental Services Covered
+
+- Cosmetic Dentistry  
+- Dental Implants  
+- Root Canal Therapy  
+- Dentures & Specialty Dentures  
+- Braces & Orthodontics  
+- Crowns & Bridges  
+- Teeth Whitening  
+- Gum Disease Treatment  
+- Maxillofacial Surgery  
+
+---
+
+## 🎯 Project Purpose
+
+This repository serves as:
+- A **real-world medical website project**
+- A **portfolio-ready example** of healthcare web development
+- A demonstration of **local SEO + accessibility-first design**
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/california-dental-website.git
